@@ -7,7 +7,7 @@ the [legacy wiki](https://github.com/terrarium-earth/Ad-Astra/wiki/Home/51b961ba
 <warning>
     <p>
         While Quilt is not explicitly supported, it has not been tested and may not be compatible. 
-        If you find an issue with Quilt, or the mod in general, please use the <a href="https://github.com/terrarium-earth/ad-astra)">Ad Astra Github</a>.
+        If you find an issue with Quilt, or the mod in general, please use the <a href="https://github.com/terrarium-earth/ad-astra">Ad Astra Github</a>.
     </p>
 </warning>
 
